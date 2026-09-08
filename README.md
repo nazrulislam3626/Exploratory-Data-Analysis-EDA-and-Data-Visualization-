@@ -7,7 +7,6 @@ This is Bank Customer Dataset for Personal Loan Prediction. This dataset contain
 The primary objective was to predict whether a customer accepted the personal loan offer (personal_loan), making this a supervised binary classification problem.
 
 
-
 # Key Features & Workflow
 
 Dataset: 5,000 rows, 14 demographic and financial features (Source: Mendeley Data, Abbas, 2025).
